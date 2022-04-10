@@ -1,0 +1,51 @@
+#id1{
+    border-width:10px;
+    border-style:ridge;
+    border-color:black;
+    background-color:cyan;
+    border-radius:5px;
+    border-collapse:10px;
+}
+
+#sample-para{
+    font-size:30px;
+    font-weight:bolder;
+    text-align:justify;
+    text-decoration:underline;
+}
+
+#id2{
+    border-width:10px;
+    border-style:outset;
+    border-color:black ;
+    background-color:peachpuff;
+}
+
+#sample{
+    padding-left:30px;
+}
+
+
+/* now vaccine */
+
+#sam{
+    border-width:10px;
+    border-style:outset;
+    border-color:black ;
+    background-color:peachpuff;
+}
+#id5{
+    padding: 30px;
+}
+
+
+.heading{
+
+    text-align: center;
+    
+}
+.abcd{
+    background-color: lightgrey;
+     border-radius: 4px;
+    
+}
